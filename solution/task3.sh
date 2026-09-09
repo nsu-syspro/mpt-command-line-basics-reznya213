@@ -1,1 +1,1 @@
-basename -a $(find -name "*.txt") | sort -n
+basename -a $(find type f -name "*.txt") | sort -n
